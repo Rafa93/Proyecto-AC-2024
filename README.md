@@ -73,7 +73,7 @@ Para aquellos casos en los que se desee hacer un ejecución manual de uno de los
 
 ## Detalles de la evaluación
 
-La entrega de dicho proyecto se realizará pasados 15 días a partir del próximo martes 6 de diciembre. La entrega consistirá de un archivo `zip` con el siguiente formato de nombre `<Nombre-de-Estudiante>-C<Grupo>.zip`. El archivo debe contener el `s-mips.circ` y el resto de los archivos entregados. Esta carpeta consta de un repositorio git local el cuál el estudiante debe usar para llevar constancia del trabajo realizado. Debe realizarce al menos un commit por cada componente implementada. Evitar por todos los medios crear un único commit al final con todos los cambios del proyecto.
+La entrega de dicho proyecto se realizará del 1ro al 5 de abril de 2024. La entrega consistirá de un archivo `zip` con el siguiente formato de nombre `<Nombre-de-Estudiante>-C<Grupo>.zip`. El archivo debe contener el `s-mips.circ` y el resto de los archivos entregados. Esta carpeta consta de un repositorio git local el cuál el estudiante debe usar para llevar constancia del trabajo realizado. Debe realizarce al menos un commit por cada componente implementada. Evitar por todos los medios crear un único commit al final con todos los cambios del proyecto.
 
 ### Requisitos
 
